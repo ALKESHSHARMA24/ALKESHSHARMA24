@@ -1,7 +1,7 @@
 - 👋 Hi, I’m ALKESH SHARMA
-- 👀 I’m interested in Mobile and App devloping
-- 🌱 I’m currently learning B.sc compter science
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in App devloping
+- 🌱 I’m currently persuing masters in IT
+- 💞️ I’m looking to collaborate on App development
 - 📫 You can cotact me on personal email id:- Sharmaalkesh24@gmail.com
 
 <!---
