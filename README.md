@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/alkeshs72819822" target="blank"><img src="https://img.shields.io/twitter/follow/alkeshs72819822?logo=twitter&style=for-the-badge" alt="alkeshs72819822" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter,firebase,RestApi**
+- 🌱 I’m currently learning **Flutter, Android development,firebase,RestApi, Web services**
 
 - 👨‍💻 All of my projects are available at [https://github.com/alkeshsharma24](https://github.com/alkeshsharma24)
 
